@@ -1,0 +1,37 @@
+react hooks
+
+useEffect
+useState
+
+
+------------------------------------------------------------------------------
+
+gestos do usuário: 
+
+yarn add react-navigation react-native-gesture-handler react-native-reanimated
+
+
+------------------------------------------------------------------------------
+
+api.js localhost
+
+pode usar o comando adb reverse tcp:3333 tcp:3333 
+
+e usar     baseURL: 'http://localhost:3333'
+
+------------------------------------------------------------------------------
+
+O async storage é como se fosse um local storage da web
+
+ela grava em que tela o usuário estava se der um reload na aplicação por exemplo
+
+yarn add @react-native-community/async-storage
+
+
+------------------------------------------------------------------------------
+
+faz a ponte do backend com o frontend
+
+yarn add socket.io
+
+------------------------------------------------------------------------------
