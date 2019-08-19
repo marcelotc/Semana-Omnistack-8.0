@@ -35,5 +35,3 @@ faz a ponte do backend com o frontend
 yarn add socket.io
 
 ------------------------------------------------------------------------------
-
-teste
